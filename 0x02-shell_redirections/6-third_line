@@ -1,0 +1,3 @@
+#!bin/bash
+echo "$(cat iacta | head -3 | tail -1) "
+
